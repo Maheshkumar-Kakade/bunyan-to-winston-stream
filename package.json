@@ -1,0 +1,28 @@
+{
+  "name": "bunyan-to-winston-stream",
+  "version": "0.0.1",
+  "description": "Bunyan Stream to write bunyan logs to Winston",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maheshkumar-Kakade/bunyan-to-winston-stream.git"
+  },
+  "keywords": [
+    "Bunyan",
+    "Winston",
+    "stream"
+  ],
+  "author": "Maheshkumar Kakade <maheshkumarkakade@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Maheshkumar-Kakade/bunyan-to-winston-stream/issues"
+  },
+  "homepage": "https://github.com/Maheshkumar-Kakade/bunyan-to-winston-stream#readme",
+  "devDependencies": {
+    "bunyan": "^1.8.12",
+    "winston": "^3.2.0"
+  }
+}
